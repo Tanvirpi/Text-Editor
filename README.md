@@ -42,6 +42,7 @@ THEN I should have proper build scripts for a webpack application
 
 ### Deployed Link
 [Live](https://github.com/Tanvirpi/Text-Editor)
+[Live](https://quiet-tor-76070.herokuapp.com/)
 
 
 ### References
